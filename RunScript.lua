@@ -33,8 +33,8 @@ local mouse = plr:GetMouse()
 RunService:UnbindFromRenderStep("loadinggui")
 
 ----------
---very sloppy, needs an automated keyframing system for animating things like this... (2023: wasn't made due to it being a distraction to go onto developing a full, separate system)
---anmiated loading screen:
+--very sloppy, needs an automated keyframing system for animating things like this... (2023 note: wasn't made due to it being a distraction to go onto developing a full, separate system)
+--animated loading screen:
 local backgui = plrgui:WaitForChild("BackgroundGui", 2)
 if backgui then
 	local backtop = backgui:WaitForChild("TopFrame")

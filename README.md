@@ -2,6 +2,8 @@
 
 Working and fairly performant audio visualizer in RBXLua for publication on roblox.com.
 
+Don't dis my choice of music.
+
 Video:
 
 

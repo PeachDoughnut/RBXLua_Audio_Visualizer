@@ -16,7 +16,7 @@ The two scripts:
 1. RBXLua_Importer.lua
 2. Python_Converter.py
 
-are command-line scripts. 1. is meant to run in the Roblox RBXLua runtime, and 2. runs in any old python on your computer. Read the comments, they are to setup the audio data for visualizing in command-line.
+are command-line scripts. 1. is meant to run in the Roblox RBXLua runtime, and 2. runs in any old python on your computer. Read the comments, they are to setup the audio data for visualizing, in the command-line first!
 
 Scripts are to be placed in appropriate locations, for example: "ReplicatedStorage.Subtitles.lua" is a script named "Subtitles" (we drop the .lua in roblox) and child to the "ReplicatedStorage" object. Please see releases for a functional product.
 
